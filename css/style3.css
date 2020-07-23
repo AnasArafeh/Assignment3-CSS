@@ -1,0 +1,45 @@
+body{
+  margin:0;
+  background-color:#373737;
+   color:#EEEEEE;
+}
+header{
+ 
+ background-color:#ccc;
+ height:50px;
+}
+#logo{
+ float:left;
+ margin-left:20px;
+}
+nav{
+
+ float:right;
+margin-right:20px;
+margin-top:15px;
+}
+nav a{
+ padding:15px;
+ text-decoration:none;
+ color:#fff;
+
+}
+.col{
+   width:550px;
+   text-align:justify;
+   float:left;
+   margin:30px;
+}
+.col h3{
+ background-color:#303030;
+ padding:15px;
+}
+footer{
+ clear:both;
+ text-align:center;
+
+}
+#contact{
+ margin-top:30px;
+ 
+}
